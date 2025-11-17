@@ -189,15 +189,16 @@ footer {
 .two-columns {
   display: grid;
   grid-template-columns: 1fr 1fr; /* Two equal columns */
-  gap: 30px;
+  gap: 9px;
   text-align: justify;
   line-height: 1.8;
   padding: 24px;
 }
 .boxed {
   border: 1px solid #ccc;     /* thin grey border */
-  padding: 16px;              /* space inside the box */
+  padding: 10px;              /* space inside the box */
   background: #f9f9f9;        /* optional light background */
   border-radius: 8px;         /* rounded corners (optional) */
 
 }
+
